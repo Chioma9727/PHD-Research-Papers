@@ -1,0 +1,9 @@
+Glycosyltransferases catalyze the formation of a glycosidic bond 
+between the last sugar unit of the core LPS and the first sugar unit
+of the O antigen. This linkage creates a continuous sugar chain 
+that includes both the core LPS and the O antigen.
+ 
+DOM's Talk (Sphingolipid meeting)
+Sphingolipid: Key communicators ( Alfred H merrill) 2011.
+Sphingolipid and their metabolism in physiology and diseases
+A perilous path: The inborn errors of sphingolipid metabolism
